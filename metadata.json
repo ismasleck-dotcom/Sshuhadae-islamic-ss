@@ -1,0 +1,8 @@
+{
+  "name": "Shuhadae Islamic Secondary School",
+  "description": "Official institutional portal and admissions platform for Shuhadae Islamic Secondary School in Mbarara, Uganda, fostering academic distinction, Tarbiyah, and Quranic excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
